@@ -24,8 +24,6 @@ Open the game in your browser:
 https://calzado1997.github.io/civ-strategy-game/
 ```
 
-Or upload the `civ_strategy_game` folder to any web server.
-
 ## 📱 Controls
 
 | Button | Action |
@@ -47,8 +45,8 @@ The game includes a built-in version selector that allows you to:
 
 This game is part of an iterative development project!
 
-- **Every Monday at 10am**, you'll receive 5 targeted questions
-- Your feedback drives the next game version
+- **Every Monday at 10am**, I will receive 5 targeted questions from my AI agent
+- My feedback drives the next game version
 - Track all improvements in [VERSION_HISTORY.md](VERSION_HISTORY.md)
 
 ## 📁 Files
