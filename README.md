@@ -21,7 +21,7 @@ A 4X Civilization Strategy Game built for web, playable on both **Mobile** and *
 Open the game in your browser:
 
 ```
-file:///a0/usr/workdir/civ_strategy_game/index.html
+https://calzado1997.github.io/civ-strategy-game/
 ```
 
 Or upload the `civ_strategy_game` folder to any web server.
